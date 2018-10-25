@@ -10,6 +10,8 @@
 3.[Github](https://github.com/)사용법 확인 및 실제로 입력해 봄<br/>
 -[Github Desktop](https://desktop.github.com/) 설치와 사용방법도 함께 확인하고 실제로 입력해 봄<br/>
 
+<br/>
+
 # 포토샵에 대한 설명
 1.RGB 와 CMYK 의 차이점<br/>
 -RGB : 디바이스 색상을 조정 Red Green Black 혼합할수록 흰색에 가까워짐<br/>
@@ -26,7 +28,7 @@
 -Cttrl+Del : 전경색(뒷쪽)<br/>
 -Ctrl+Shift+N : 시크릿 모드로 여는 새창 - 기록이 남지 않음<br/>
 
-<br/><br/>
+<br/>
 
 # 준비 과제
 1. [이미지 보정을 위한 컨텐츠 수집](https://unsplash.com)
