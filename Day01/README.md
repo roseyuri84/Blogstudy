@@ -1,6 +1,11 @@
 ﻿# 디자인 툴 설치 및 사용법
-Adobe CC 설치 <br/>
-크롬 확장 플러그인 설치 <br/>
+1.Adobe CC 설치 <br/>
+2.크롬 확장 플러그인 설치 <br/>
+2-1.이미지 다운로드용 [Lodyfy](https://chrome.google.com/webstore/detail/loadify-smart-image-downl/kbohbdnooimgjlohmicjmoagppjdcbam)<br/>
+2-2.비밀번호 자동저장[Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)<br/>
+2-3.[PixelParallel by htmlBurger](https://chrome.google.com/webstore/detail/pixelparallel-by-htmlburg/iffnoibnepbcloaaagchjonfplimpkob)<br/>
+2-4.[무료 이미지 다운로드](https://unsplash.com/)<br/>
+2-5.[그리드](http://gridcalculator.dk/)<br/>
 
 <br/><br/>
 
