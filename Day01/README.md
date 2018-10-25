@@ -5,7 +5,10 @@
 -비밀번호 자동저장[Lastpass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)<br/>
 -[PixelParallel by htmlBurger](https://chrome.google.com/webstore/detail/pixelparallel-by-htmlburg/iffnoibnepbcloaaagchjonfplimpkob)<br/>
 -[무료 이미지 다운로드](https://unsplash.com/)<br/>
--[그리드](http://gridcalculator.dk/)<br/>
+-[Grid](http://gridcalculator.dk/)<br/>
+-[AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
+3.[Github](https://github.com/)사용법 확인 및 실제로 입력해 봄<br/>
+-[Github Desktop](https://desktop.github.com/) 설치와 사용방법도 함께 확인하고 실제로 입력해 봄<br/>
 
 <br/><br/>
 
